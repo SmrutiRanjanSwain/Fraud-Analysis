@@ -50,3 +50,17 @@ In conclusion, this project provides a comprehensive understanding of customer f
 By leveraging EDA and visualization techniques, I identify patterns of fraud, risk factors affecting credit scores, and relationships between financial attributes. 
 The insights gained not only aid in detecting fraudulent activities but also enable financial institutions to optimize their credit risk strategies and enhance customer profiling systems. 
 Ultimately, this project demonstrates how data-driven analysis can contribute to safer, more transparent, and more efficient banking systems.
+
+
+## What do I suggest the client to achieve Business Objective ?
+
+To address the business objective of reducing fraud risk and improving credit portfolio quality, I recommend a data-
+driven approach using the insights derived from the analysis. First, customers can be segmented based on their credit
+score, debt levels, and utilization ratios to identify high-risk groups. Customers showing consistently high outstanding
+debt, EMI burden, and credit utilization should be flagged for closer monitoring. The institution should encourage
+timely payments by offering reminders, flexible repayment plans, and financial counseling. At the same time, predictive
+models can be developed to identify early warning signals of potential fraud or default. By promoting responsible
+borrowing and proactive engagement, the bank can improve repayment rates. Automated alerts and stricter loan
+eligibility criteria for high-risk customers will further reduce exposure. Meanwhile, low-risk customers should be
+rewarded with better credit terms to strengthen loyalty. Over time, these actions will not only reduce fraud but also
+improve the overall profitability and customer trust of the organization.
